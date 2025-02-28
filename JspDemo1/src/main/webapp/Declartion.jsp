@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <%! 
-    int counter = 0; 
+    int counter = 0; // Variable
 
     public int count() {        //Counter Method
         return ++counter;
